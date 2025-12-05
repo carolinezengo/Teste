@@ -1,0 +1,17 @@
+C:\C\NovoTarget\obj\Debug\net8.0\NovoTarget.GeneratedMSBuildEditorConfig.editorconfig
+C:\C\NovoTarget\obj\Debug\net8.0\NovoTarget.AssemblyInfoInputs.cache
+C:\C\NovoTarget\obj\Debug\net8.0\NovoTarget.AssemblyInfo.cs
+C:\C\NovoTarget\obj\Debug\net8.0\NovoTarget.csproj.CoreCompileInputs.cache
+C:\C\NovoTarget\bin\Debug\net8.0\NovoTarget.exe
+C:\C\NovoTarget\bin\Debug\net8.0\NovoTarget.deps.json
+C:\C\NovoTarget\bin\Debug\net8.0\NovoTarget.runtimeconfig.json
+C:\C\NovoTarget\bin\Debug\net8.0\NovoTarget.dll
+C:\C\NovoTarget\bin\Debug\net8.0\NovoTarget.pdb
+C:\C\NovoTarget\obj\Debug\net8.0\NovoTarget.dll
+C:\C\NovoTarget\obj\Debug\net8.0\refint\NovoTarget.dll
+C:\C\NovoTarget\obj\Debug\net8.0\NovoTarget.pdb
+C:\C\NovoTarget\obj\Debug\net8.0\NovoTarget.genruntimeconfig.cache
+C:\C\NovoTarget\obj\Debug\net8.0\ref\NovoTarget.dll
+C:\C\NovoTarget\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\C\NovoTarget\obj\Debug\net8.0\NovoTarget.csproj.AssemblyReference.cache
+C:\C\NovoTarget\obj\Debug\net8.0\NovoTarget.csproj.Up2Date

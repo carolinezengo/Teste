@@ -1,0 +1,49 @@
+{
+  "Estoque": [
+    {
+      "CodigoProduto": 101,
+      "DescricaoProduto": "Caneta Azul",
+      "MovimentacaoEstoque": {
+        "IdMovimentacao": "84bc0b51-fc9f-42d4-9bfa-4a5e3b624d80",
+        "CodigoProduto": 0,
+        "Descricao": "Entrada",
+        "Quantidade": 0
+      },
+      "Estoque": 107
+    },
+    {
+      "CodigoProduto": 102,
+      "DescricaoProduto": "Caderno Universitário",
+      "MovimentacaoEstoque": {
+        "IdMovimentacao": "c9a8b14d-10bd-4851-8d24-2128af09b0df",
+        "CodigoProduto": 0,
+        "Descricao": "Entrada",
+        "Quantidade": 0
+      },
+      "Estoque": 80
+    },
+    {
+      "CodigoProduto": 103,
+      "DescricaoProduto": "Borracha Branca",
+      "MovimentacaoEstoque": {
+        "IdMovimentacao": "3beffe5c-fd61-42a6-b16f-1de3d1f5e9f6",
+        "CodigoProduto": 0,
+        "Descricao": "Entrada",
+        "Quantidade": 0
+      },
+      "Estoque": 220
+    },
+    {
+      "CodigoProduto": 104,
+      "DescricaoProduto": "Lápis Preto HB",
+      "MovimentacaoEstoque": null,
+      "Estoque": 320
+    },
+    {
+      "CodigoProduto": 105,
+      "DescricaoProduto": "Marcador de Texto Amarelo",
+      "MovimentacaoEstoque": null,
+      "Estoque": 90
+    }
+  ]
+}
