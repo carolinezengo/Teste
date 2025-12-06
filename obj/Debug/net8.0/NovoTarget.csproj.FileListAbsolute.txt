@@ -15,3 +15,4 @@ C:\C\NovoTarget\obj\Debug\net8.0\ref\NovoTarget.dll
 C:\C\NovoTarget\bin\Debug\net8.0\Newtonsoft.Json.dll
 C:\C\NovoTarget\obj\Debug\net8.0\NovoTarget.csproj.AssemblyReference.cache
 C:\C\NovoTarget\obj\Debug\net8.0\NovoTarget.csproj.Up2Date
+c:\C\NovoTarget\obj\Debug\net8.0\NovoTarget.sourcelink.json
